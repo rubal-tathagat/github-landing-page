@@ -1,2 +1,2 @@
 # github-landing-psge
-i have tried to clone tha landing page of github.
+i have tried to clone the landing page of github.
